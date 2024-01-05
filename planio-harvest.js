@@ -22,7 +22,6 @@ window.addEventListener("DOMContentLoaded", function() {
 
   // Resize iframe
   window.addEventListener("message", function (event) {
-    console.log(event);
     if (event.origin != "https://platform.harvestapp.com") {
       return;
     }
