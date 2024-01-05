@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Planio Harvest Integration",
-  "version": "1",
+  "version": "1.0.0",
   "description": "Adds Harvest time tracking integration to Planio issue pages.",
   "icons": {
     "48": "icon-48.png"
